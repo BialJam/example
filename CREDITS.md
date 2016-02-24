@@ -1,0 +1,1 @@
+- Lizard sprite by [Tiny Speck](http://opengameart.org/content/glitch-sprite-assets-huge-collection).
